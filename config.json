@@ -2,7 +2,7 @@
     "VIP_ID":"1173764657840930857",
     "token": "MTE4MDM0NzU3NDg1NTY2NzczMg.G04zym.ddwN-I80xVGGqNJFPj6XkHtre2QEGy6kWyrWTQ",
     "prefix": "/",
-    "genCooldown": "5000",
+    "genCooldown": "50",
     "restockchannel":"1180348633883885741",
     "pingrole":"1173458884795572266",
     "gen_role":"1173458884795572266",
