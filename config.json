@@ -1,24 +1,17 @@
 {
-    "VIP_ID":"VIP ID ROLE",
-    "token": "TOKEN BOT DISCORD",
-    "prefix": "PREFIX",
+    "VIP_ID":"1173764657840930857",
+    "token": "MTE4MDM0NzU3NDg1NTY2NzczMg.G04zym.ddwN-I80xVGGqNJFPj6XkHtre2QEGy6kWyrWTQ",
+    "prefix": "/",
     "genCooldown": "5000",
-    "restockchannel":"PING RESTOCK ID CHANNEL",
-    "pingrole":"PING ROLE ID CHANNEL",
-    "gen_role":"ID ROLE",
-    "helper":"ID ROLE FOURNISSEUR",
-    "logs":"LOGS DU BOT ID CHANNEL SI SES PAS CONFIG LE BOT MARCHE PAS !",
+    "restockchannel":"1180348633883885741",
+    "pingrole":"1173458884795572266",
+    "gen_role":"1173458884795572266",
+    "helper":"1173361020593520672",
+    "logs":"1173362243023413388",
     "bot": {
-        "owner1": "1123637251331608637",
+        "owner1": "1152971071788695562",
         "owner2": "726077529479315466",
         "owner3": "1121165974851289198",
-        "owner4": "AJOUTER ICC VOTRE ID",
-        "owner5": "AJOUTER ICC VOTRE ID",
-        "owner6": "AJOUTER ICC VOTRE ID",
-        "owner7": "AJOUTER ICC VOTRE ID",
-        "owner8": "AJOUTER ICC VOTRE ID",
-        "owner9": "AJOUTER ICC VOTRE ID",
-        "owner10": "AJOUTER ICC VOTRE ID"
 
     },
     "color": {
